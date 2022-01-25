@@ -1,0 +1,111 @@
+{
+"id": "11",
+"name": "Etheral Ape #11",
+"attributes": [
+{
+"trait_type": "Gender",
+"value": "Female"
+},
+{
+"trait_type": "Canvas",
+"value": "Crimson"
+},
+{
+"trait_type": "Background Type",
+"value": "Wave"
+},
+{
+"trait_type": "Background Fill",
+"value": "Peach"
+},
+{
+"trait_type": "Fur Type",
+"value": "Trippy"
+},
+{
+"trait_type": "Fur Fill",
+"value": "Azure"
+},
+{
+"trait_type": "Eyes",
+"value": "Triggered"
+},
+{
+"trait_type": "Accessory",
+"value": "None"
+},
+{
+"trait_type": "Hair",
+"value": "Flowy Bob"
+},
+{
+"trait_type": "Mouth",
+"value": "Huh"
+},
+{
+"trait_type": "Hat",
+"value": "None"
+},
+{
+"trait_type": "Earrings",
+"value": "Ornate"
+}
+],
+"image": "{IPFS_IMAGE_URL}",
+"description": "Ethereal Apes are 10,000 painstakingly crafted algorithmic apes living on Ethereum"
+}{
+  "id": "11",
+  "name": "Etheral Ape #11",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Canvas",
+      "value": "Crimson"
+    },
+    {
+      "trait_type": "Background Type",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Background Fill",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Fur Type",
+      "value": "Trippy"
+    },
+    {
+      "trait_type": "Fur Fill",
+      "value": "Azure"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triggered"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flowy Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Huh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Ornate"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/rootslashbin/ea/main/11.json",
+  "description": "Ethereal Apes are 10,000 painstakingly crafted algorithmic apes living on Ethereum"
+}

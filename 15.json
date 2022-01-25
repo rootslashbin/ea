@@ -1,0 +1,111 @@
+{
+"id": "15",
+"name": "Etheral Ape #15",
+"attributes": [
+{
+"trait_type": "Gender",
+"value": "Female"
+},
+{
+"trait_type": "Canvas",
+"value": "Black"
+},
+{
+"trait_type": "Background Type",
+"value": "Petals"
+},
+{
+"trait_type": "Background Fill",
+"value": "Mystic"
+},
+{
+"trait_type": "Fur Type",
+"value": "Floral"
+},
+{
+"trait_type": "Fur Fill",
+"value": "Wildfire"
+},
+{
+"trait_type": "Eyes",
+"value": "Tired"
+},
+{
+"trait_type": "Accessory",
+"value": "Holo Visor"
+},
+{
+"trait_type": "Hair",
+"value": "Messy Long"
+},
+{
+"trait_type": "Mouth",
+"value": "Unamused"
+},
+{
+"trait_type": "Hat",
+"value": "None"
+},
+{
+"trait_type": "Earrings",
+"value": "Smol Hoops"
+}
+],
+"image": "{IPFS_IMAGE_URL}",
+"description": "Ethereal Apes are 10,000 painstakingly crafted algorithmic apes living on Ethereum"
+}{
+  "id": "15",
+  "name": "Etheral Ape #15",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Canvas",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background Type",
+      "value": "Petals"
+    },
+    {
+      "trait_type": "Background Fill",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Fur Type",
+      "value": "Floral"
+    },
+    {
+      "trait_type": "Fur Fill",
+      "value": "Wildfire"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Holo Visor"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Messy Long"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Unamused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Smol Hoops"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/rootslashbin/ea/main/15.json",
+  "description": "Ethereal Apes are 10,000 painstakingly crafted algorithmic apes living on Ethereum"
+}

@@ -1,0 +1,111 @@
+{
+"id": "10",
+"name": "Etheral Ape #10",
+"attributes": [
+{
+"trait_type": "Gender",
+"value": "Male"
+},
+{
+"trait_type": "Canvas",
+"value": "Black"
+},
+{
+"trait_type": "Background Type",
+"value": "Petals"
+},
+{
+"trait_type": "Background Fill",
+"value": "Mystic"
+},
+{
+"trait_type": "Fur Type",
+"value": "Collector"
+},
+{
+"trait_type": "Fur Fill",
+"value": "Azure"
+},
+{
+"trait_type": "Eyes",
+"value": "Dreamy"
+},
+{
+"trait_type": "Accessory",
+"value": "None"
+},
+{
+"trait_type": "Hair",
+"value": "None"
+},
+{
+"trait_type": "Mouth",
+"value": "Huh"
+},
+{
+"trait_type": "Hat",
+"value": "None"
+},
+{
+"trait_type": "Earrings",
+"value": "Bitcoin"
+}
+],
+"image": "{IPFS_IMAGE_URL}",
+"description": "Ethereal Apes are 10,000 painstakingly crafted algorithmic apes living on Ethereum"
+}{
+  "id": "10",
+  "name": "Etheral Ape #10",
+  "attributes": [
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Canvas",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background Type",
+      "value": "Petals"
+    },
+    {
+      "trait_type": "Background Fill",
+      "value": "Mystic"
+    },
+    {
+      "trait_type": "Fur Type",
+      "value": "Collector"
+    },
+    {
+      "trait_type": "Fur Fill",
+      "value": "Azure"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dreamy"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Huh"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Bitcoin"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/rootslashbin/ea/main/10.json",
+  "description": "Ethereal Apes are 10,000 painstakingly crafted algorithmic apes living on Ethereum"
+}
